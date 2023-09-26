@@ -15,7 +15,7 @@ const movies = [
         id: "1",
         name: "Titanic",
         year: 1997,
-        imageUrl: "https://upload.wikimedia.org/wikipedia/en/2/22/Titanic_poster.jpg",
+        imageUrl: "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
         duration: 194,
         like: false
     },
@@ -23,7 +23,7 @@ const movies = [
         id: "2",
         name: "Avatar",
         year: 2009,
-        imageUrl: "https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg",
+        imageUrl: "https://m.media-amazon.com/images/M/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
         duration: 162,
         like: true
     },
@@ -31,7 +31,7 @@ const movies = [
         id: "4",
         name: "Forrest Gump",
         year: 1994,
-        imageUrl: "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
+        imageUrl: "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
         duration: 142,
         like: false
     },
@@ -39,7 +39,7 @@ const movies = [
         id: "5",
         name: "The Dark Knight",
         year: 2008,
-        imageUrl: "https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg",
+        imageUrl: "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
         duration: 152,
         like: true
     },
@@ -47,7 +47,7 @@ const movies = [
         id: "6",
         name: "Inception",
         year: 2010,
-        imageUrl: "https://upload.wikimedia.org/wikipedia/en/7/7f/Inception_ver3.jpg",
+        imageUrl: "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
         duration: 148,
         like: false
     },
@@ -55,7 +55,7 @@ const movies = [
         id: "7",
         name: "The Lord of the Rings: The Fellowship of the Ring",
         year: 2001,
-        imageUrl: "https://upload.wikimedia.org/wikipedia/en/0/0c/The_Fellowship_Of_The_Ring.jpg",
+        imageUrl: "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
         duration: 178,
         like: true
     },
@@ -63,7 +63,7 @@ const movies = [
         id: "8",
         name: "Pulp Fiction",
         year: 1994,
-        imageUrl: "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg",
+        imageUrl: "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
         duration: 154,
         like: false
     },
@@ -71,7 +71,7 @@ const movies = [
         id: "9",
         name: "The Matrix",
         year: 1999,
-        imageUrl: "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",
+        imageUrl: "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
         duration: 136,
         like: true
     },
@@ -79,7 +79,7 @@ const movies = [
         id: "10",
         name: "Interstellar",
         year: 2014,
-        imageUrl: "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+        imageUrl: "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
         duration: 169,
         like: false
     },
@@ -87,7 +87,7 @@ const movies = [
         id: "11",
         name: "Joker",
         year: 2019,
-        imageUrl: "https://upload.wikimedia.org/wikipedia/en/8/8e/Joker_%282019_film%29_poster.jpg",
+        imageUrl: "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UY4096_.jpg",
         duration: 122,
         like: false,
     },
@@ -95,7 +95,7 @@ const movies = [
         id: "12",
         name: "The Shawshank Redemption",
         year: 1994,
-        imageUrl: "https://www.imdb.com/title/tt0111161/mediaviewer/rm3877281024/",
+        imageUrl: "https://m.media-amazon.com/images/M/MV5BMTM0NjUxMDk5MF5BMl5BanBnXkFtZTcwNDMxNDY3Mw@@._V1_FMjpg_UX1800_.jpg",
         duration: 142,
         like: false
     },
@@ -103,7 +103,7 @@ const movies = [
         id: "13",
         name: "The Godfather",
         year: 1972,
-        imageUrl: "https://www.imdb.com/title/tt0068646/mediaviewer/rm1072990721/",
+        imageUrl: "https://m.media-amazon.com/images/M/MV5BZTFiODA5NWEtM2FhNC00MWEzLTlkYjgtMWMwNzBhYzlkY2U3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UY4281_.jpg",
         duration: 175,
         like: false
     },
@@ -111,7 +111,7 @@ const movies = [
         id: "14",
         name: "The Godfather: Part II",
         year: 1974,
-        imageUrl: "https://www.imdb.com/title/tt0071562/mediaviewer/rm3051372544/",
+        imageUrl: "https://m.media-amazon.com/images/M/MV5BMTQyMDc0ODY1OV5BMl5BanBnXkFtZTgwMDI4NjIwMjE@._V1_.jpg",
         duration: 202,
         like: false
     },
@@ -119,7 +119,7 @@ const movies = [
         id: "15",
         name: "12 Angry Men",
         year: 1957,
-        imageUrl: "https://www.imdb.com/title/tt0050083/mediaviewer/rm2449755648/",
+        imageUrl: "https://m.media-amazon.com/images/M/MV5BNTNjOWI4ODYtODhjZC00NDk1LThlM2ItZDNiNDMzOTI5YWI5XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
         duration: 96,
         like: false
     },
@@ -127,7 +127,7 @@ const movies = [
         id: "16",
         name: "Schindler's List",
         year: 1993,
-        imageUrl: "https://www.imdb.com/title/tt0108052/mediaviewer/rm2915824384/",
+        imageUrl: "https://m.media-amazon.com/images/M/MV5BMTgwNzg3MDkxM15BMl5BanBnXkFtZTcwMzA2MDAxMw@@._V1_FMjpg_UX2048_.jpg",
         duration: 195,
         like: false
     },
@@ -135,7 +135,7 @@ const movies = [
         id: "17",
         name: "The Lord of the Rings: The Return of the King",
         year: 2003,
-        imageUrl: "https://www.imdb.com/title/tt0167260/mediaviewer/rm1703269376/",
+        imageUrl: "https://m.media-amazon.com/images/M/MV5BNTg3Mzk3NDI0NF5BMl5BanBnXkFtZTcwNDU2MTk2Mw@@._V1_FMjpg_UY2048_.jpg",
         duration: 201,
         like: false
     },
@@ -143,7 +143,7 @@ const movies = [
         id: "19",
         name: "The Lord of the Rings: The Fellowship of the Ring",
         year: 2001,
-        imageUrl: "https://www.imdb.com/title/tt0120737/mediaviewer/rm2354352128/",
+        imageUrl: "https://m.media-amazon.com/images/M/MV5BMjQ4NDg5MTQwNl5BMl5BanBnXkFtZTgwNTQwMTk2MTI@._V1_FMjpg_UX1920_.jpg",
         duration: 178,
         like: false
     },
@@ -156,7 +156,7 @@ app.get('/movies', (req, res) => {
 });
 
 // Route pour modifier le statut "like" d'un film
-app.patch('/movies/:id', (req, res) => {
+app.patch('/movies/like/:id', (req, res) => {
     const movieId = req.params.id;
     const movieIndex = movies.findIndex(f => f.id == movieId);
 
